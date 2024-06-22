@@ -1,8 +1,5 @@
-# React + Vite
+# Roto Transition Effect
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://github.com/rylenlobo/Roto-Transitions-Effect/assets/90313517/146dff37-402e-453f-8b53-49d49e8a8d40
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+"Roto Transition" effect implemented using React, Framer Motion, and Tailwind CSS. The roto transition effect provides a dynamic, rotating transition that can be used to enhance the user experience in web applications. This project showcases how to create smooth, visually appealing animations that are both performant and easy to implement.
